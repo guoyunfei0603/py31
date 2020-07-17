@@ -72,5 +72,4 @@ num_sum(10, 20, a=1, b=2, c=3)
 #     print("结果：",a)
 # num_sum2(1,2,a=1,b=2)
 
-import random
-random.random()
+
