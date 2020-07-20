@@ -50,7 +50,7 @@ else:
     # 判断两次密码是否一致
     if pwd == pwd2:
         print("注册成功！")
-        # 帮输入的账号密码已字典的形式加入道users中
+        # 帮输入的账号密码已字典的形式加入到users中
         users.append({"uid": id, "pwd": pwd})
     else:
         print("两次输入的密码不一致")

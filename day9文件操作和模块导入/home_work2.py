@@ -17,34 +17,43 @@ url:www.baidu.com,mobilephone:15678934551,pwd:234555
 [
 {'url': 'www.baidu.com', 'mobilephone': '13760246701', 'pwd': '123456'},
 {'url': 'www.baidu.com', 'mobilephone': '15678934551', 'pwd': '234555'},
-{'url': 'www.baidu.com', 'mobilephone': '15678934551', 'pwd': '234555'},
-{'url': 'www.baidu.com', 'mobilephone': '15678934551', 'pwd': '234555'},
-{'url': 'www.baidu.com', 'mobilephone': '15678934551', 'pwd': '234555'}
+{'url': 'www.baidu.com', 'mobilephone': '15678934552', 'pwd': '234555'},
+{'url': 'www.baidu.com', 'mobilephone': '15678934553', 'pwd': '234555'},
+{'url': 'www.baidu.com', 'mobilephone': '15678934554', 'pwd': '234555'}
 ]
 '''
-with open('data2.txt','r',encoding='utf-8')as file:
-    # 处理 \n
-    f = file.readlines()
-    new_list = []
+with open('data2.txt', 'r', encoding='utf-8')as file:
+    t1 = file.readlines()
 
-    for i in f:
-        new_str = i.replace('\n', '')
+list1 = []
+dic = {}
+for i in t1:
+    # 去掉\n 以 , 分割
+    str1 = i.strip('\n').split(',')
+    # 再遍历
+    for j in str1:
+        # print(j)  # url:www.baidu.com
+        #     key = j.split(':')[0]
+        #     value = j.split(':')[1]
+        # dic = {key: value}
+        dic[j.split(':')[0]] = j.split(':')[1]
 
-        new_list.append(new_str)
-    print(new_list)
+    list1.append(dic)
 
-t1 = []
-for i in new_list:
-    s1 = i.split(',')
-    t1.append(s1)
+# print(list1)
 
-print(t1)
+# 要求二：将上述数据再次进行转换，转换为下面这种字典格式格式​
+# {
+#    'data1':{'url': 'www.baidu.com', 'mobilephone': '13760246701', 'pwd': '123456'},
+#    'data2':{'url': 'www.baidu.com', 'mobilephone': '15678934551', 'pwd': '234555'},
+#    'data3':{'url': 'www.baidu.com', 'mobilephone': '15678934551', 'pwd': '234555'},
+#    'data4':{'url': 'www.baidu.com', 'mobilephone': '15678934551', 'pwd': '234555'},
+#    'data5':{'url': 'www.baidu.com', 'mobilephone': '15678934551', 'pwd': '234555'}
+# }
 
-t2 = []
-for item in t1:
-    for j in item:
-        s2 = i.split(',')
-        t2.append(s2)
-print(t2)
-
-dic = t2[0][]
+dic2 = {}
+for j in range(1, 6):
+    s = 'data' + str(j)
+    for i in list1:
+        dic2[s] = i
+print(dic2)

@@ -22,19 +22,19 @@ users = [
 id = input("请输入账号：")
 pwd = input("请输入密码：")
 pwd2 = input("请再次确认密码：")
-# # 遍历所有的账号
-# for u in users:
-#     # 判断账号是否已经被注册
-#     if id == u["uid"]:
-#     print("该账号已经被注册！")
-#     break
-#     else:
-#     # 如果账号没有注册，那么for循环中的break不会执行。则会执行for对应的else语句
-#         print("该账号可以注册，继续判断密码！")
-#     # 判断两次密码是否一致
-#         if pwd == pwd2:
-#     print("注册成功！")
-#     # 帮输入的账号密码已字典的形式加入道users中
-#         users.append({"uid": id, "pwd": pwd})
-#     else:
-#     print("两次输入的密码不一致")
+# 遍历所有的账号
+for u in users:
+    # 判断账号是否已经被注册
+    if id == u["uid"]:
+        print("该账号已经被注册！")
+        break
+else:
+    # 如果账号没有注册，那么for循环中的break不会执行。则会执行for对应的else语句
+    print("该账号可以注册，继续判断密码！")
+    # 判断两次密码是否一致
+    if pwd == pwd2:
+        print("注册成功！")
+    # 帮输入的账号密码已字典的形式加入道users中
+        users.append({"uid": id, "pwd": pwd})
+    else:
+        print("两次输入的密码不一致")

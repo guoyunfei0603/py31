@@ -29,15 +29,15 @@
 print("--------------第二题-------------")
 
 
-def sanjiao(n):
-    for i in range(n + 1):
-        for j in range(n):
-            print(" * ", end="")
-        n -= 1
-        print()
+# def sanjiao(n):
+#     for i in range(n + 1):
+#         for j in range(n):
+#             print(" * ", end="")
+#         n -= 1
+#         print()
 
 
-sanjiao(5)
+# sanjiao(5)
 
 
 # 3、定义一个可以完成任意个数字相加的函数（支持关键字传参和位置传参），并返回相加结果。
@@ -63,7 +63,7 @@ def num_sum(*args, **kwargs):
     print(count)
 
 
-num_sum(10, 20, a=1, b=2, c=3)
+# num_sum(10, 20, a=1, b=2, c=3)
 
 # 方式二
 # def num_sum2(*args, **kwargs):
@@ -72,5 +72,4 @@ num_sum(10, 20, a=1, b=2, c=3)
 #     print("结果：",a)
 # num_sum2(1,2,a=1,b=2)
 
-import random
-random.random()
+
