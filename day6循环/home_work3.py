@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/7/13 10:14
 # @Author  : guoyunfei.0603
-# @File    : home_work2.py
+# @File    : home_work2类.py
 
 # 3、打印99乘法表，结果如下：
 '''
