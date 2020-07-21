@@ -34,10 +34,10 @@ for i in t1:
     # 再遍历
     for j in str1:
         # print(j)  # url:www.baidu.com
-        #     key = j.split(':')[0]
-        #     value = j.split(':')[1]
-        # dic = {key: value}
-        dic[j.split(':')[0]] = j.split(':')[1]
+            key = j.split(':')[0]
+            value = j.split(':')[1]
+            dic[key] = value
+        # dic[j.split(':')[0]] = j.split(':')[1]
 
     list1.append(dic)
 
