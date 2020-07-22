@@ -28,3 +28,4 @@ cmd命令终端：pip -V  查看pip的版本
 PYPI：python的第三方库管理平台
 
 
+追加的内容

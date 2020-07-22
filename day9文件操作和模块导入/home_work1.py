@@ -12,7 +12,6 @@ E-mail:1359239107@qq.com
 提示：读取出来的如果有换行\n 想办法去掉 （字符串替换）
 '''
 
-# todo 考虑写成函数，处理 替换\n
 with open('data.txt', 'r', encoding='utf-8')as file:
     f = file.readlines()  # 这个遍历出来是一个列表包含data.txt的数据
     # 定义一个空列表，用来存放 替换\n后的元素

@@ -14,27 +14,34 @@ E-mail:1359239107@qq.com
 程序运行完之后，将所有的用户数据再次写入到文件
 可以把保存账号的列表转为字符串直接写入文件，读出来的时候，再把字符串转换为列表
 '''
-users = [
-    {"uid": "py01", "pwd": "lmb01"},
-    {"uid": "py02", "pwd": "lmb02"},
-]
+# users = [
+#     {"uid": "py01", "pwd": "lmb01"},
+#     {"uid": "py02", "pwd": "lmb02"},
+# ]
+from day9文件操作和模块导入.home_work2类 import test_data
 
 id = input("请输入账号：")
 pwd = input("请输入密码：")
 pwd2 = input("请再次确认密码：")
-# # 遍历所有的账号
-# for u in users:
-#     # 判断账号是否已经被注册
-#     if id == u["uid"]:
-#     print("该账号已经被注册！")
-#     break
-#     else:
-#     # 如果账号没有注册，那么for循环中的break不会执行。则会执行for对应的else语句
-#         print("该账号可以注册，继续判断密码！")
-#     # 判断两次密码是否一致
-#         if pwd == pwd2:
-#     print("注册成功！")
-#     # 帮输入的账号密码已字典的形式加入道users中
-#         users.append({"uid": id, "pwd": pwd})
-#     else:
-#     print("两次输入的密码不一致")
+
+read_data = test_data().read_data('data3.txt')
+# print(read_data)
+
+# 遍历所有的账号
+for u in read_data:
+    # 判断账号是否已经被注册
+    if id == u["uid"]:
+        print("该账号已经被注册！")
+        break
+else:
+    # 如果账号没有注册，那么for循环中的break不会执行。则会执行for对应的else语句
+    print("该账号可以注册，继续判断密码！")
+    # 判断两次密码是否一致
+    if pwd == pwd2:
+        print("注册成功！")
+    # 写到data3.txt里面
+    #     todo 格式有点问题，，后期优化吧
+        with open('data3.txt','a',encoding='utf-8') as f:
+            f.write(str({"uid": id, "pwd": pwd}))
+    else:
+        print("两次输入的密码不一致")
