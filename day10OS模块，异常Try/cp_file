@@ -1,0 +1,207 @@
+"""
+============================
+Author:小白31
+Time:2020/7/22 22:47
+E-mail:1359239107@qq.com
+============================
+"""
+import os
+'''
+找错误原因：
+从下往上，不是自己的文件忽略，根据错误类型，信息定位
+
+'''
+# 当前包路径
+# package_path = os.path.abspath('.')
+
+# join 拼接路径
+f1 = r'D:\py31\git_code\py31\day10OS模块，异常Try'
+f2 = 'home_work1.py'
+
+res = os.path.join(f1, f2)
+print(res)"""
+============================
+Author:小白31
+Time:2020/7/22 23:26
+E-mail:1359239107@qq.com
+============================
+"""
+
+# 1、实现一个文件复制器函数，通过给函数传入一个路径，复制该路径下面所有的文件(目录不用复制)到当前目录，
+# 要求：如果传路径不存在，不能报错                提示：os模块结合文件读写操作 、异常捕获 即可实现
+import os
+
+
+def file_copy(file_path):
+    # 获取当前路径下的文件、文件夹
+    list_dir = os.listdir(file_path)
+
+    # 遍历目录下每个文件、文件夹
+    for i in list_dir:
+        # join 拼接
+        res = os.path.join(file_path, i)
+
+        if os.path.isfile(res):
+            # print('文件：',res,type(res))
+            # li.append(res)
+
+            # 读取文件内容
+            with open(res, 'r', encoding='utf-8')as file:
+                f1 = file.read()
+            # 复制
+            with open(r'D:\py31\git_code\py31\day10OS模块，异常Try\cp_file', 'a', encoding='utf-8')as file:
+                f2 = file.write(f1)
+
+
+file_copy(r"D:\py31\git_code\py31\day10OS模块，异常Try")
+
+# 去掉文件名 返回目录
+# res = os.path.dirname(r'D:\py31\git_code\py31\day10OS模块，异常Try\day10_01笔记.py')
+# print(res) #D:\py31\git_code\py31\day10OS模块，异常Try
+
+
+"""
+============================
+Author:小白31
+Time:2020/7/21 22:43
+E-mail:1359239107@qq.com
+============================
+"""
+"""
+============================
+Author:小白31
+Time:2020/7/22 22:47
+E-mail:1359239107@qq.com
+============================
+"""
+import os
+'''
+找错误原因：
+从下往上，不是自己的文件忽略，根据错误类型，信息定位
+
+'''
+# 当前包路径
+# package_path = os.path.abspath('.')
+
+# join 拼接路径
+f1 = r'D:\py31\git_code\py31\day10OS模块，异常Try'
+f2 = 'home_work1.py'
+
+res = os.path.join(f1, f2)
+print(res)"""
+============================
+Author:小白31
+Time:2020/7/22 23:26
+E-mail:1359239107@qq.com
+============================
+"""
+
+# 1、实现一个文件复制器函数，通过给函数传入一个路径，复制该路径下面所有的文件(目录不用复制)到当前目录，
+# 要求：如果传路径不存在，不能报错                提示：os模块结合文件读写操作 、异常捕获 即可实现
+import os
+
+
+def file_copy(file_path):
+    # 获取当前路径下的文件、文件夹
+    list_dir = os.listdir(file_path)
+
+    # 遍历目录下每个文件、文件夹
+    for i in list_dir:
+        # join 拼接
+        res = os.path.join(file_path, i)
+
+        if os.path.isfile(res):
+            # print('文件：',res,type(res))
+            # li.append(res)
+
+            # 读取文件内容
+            with open(res, 'r', encoding='utf-8')as file:
+                f1 = file.read()
+            # 复制
+            with open(r'D:\py31\git_code\py31\day10OS模块，异常Try\cp_file', 'a', encoding='utf-8')as file:
+                f2 = file.write(f1)
+
+
+file_copy(r"D:\py31\git_code\py31\day10OS模块，异常Try")
+
+# 去掉文件名 返回目录
+# res = os.path.dirname(r'D:\py31\git_code\py31\day10OS模块，异常Try\day10_01笔记.py')
+# print(res) #D:\py31\git_code\py31\day10OS模块，异常Try
+
+
+"""
+============================
+Author:小白31
+Time:2020/7/21 22:43
+E-mail:1359239107@qq.com
+============================
+"""
+"""
+============================
+Author:小白31
+Time:2020/7/22 22:47
+E-mail:1359239107@qq.com
+============================
+"""
+import os
+'''
+找错误原因：
+从下往上，不是自己的文件忽略，根据错误类型，信息定位
+
+'''
+# 当前包路径
+# package_path = os.path.abspath('.')
+
+# join 拼接路径
+f1 = r'D:\py31\git_code\py31\day10OS模块，异常Try'
+f2 = 'home_work1.py'
+
+res = os.path.join(f1, f2)
+print(res)"""
+============================
+Author:小白31
+Time:2020/7/22 23:26
+E-mail:1359239107@qq.com
+============================
+"""
+
+# 1、实现一个文件复制器函数，通过给函数传入一个路径，复制该路径下面所有的文件(目录不用复制)到当前目录，
+# 要求：如果传路径不存在，不能报错                提示：os模块结合文件读写操作 、异常捕获 即可实现
+import os
+
+
+def file_copy(file_path):
+    # 获取当前路径下的文件、文件夹
+    list_dir = os.listdir(file_path)
+    print('111111',list_dir)
+    # 遍历目录下每个文件、文件夹
+    for i in list_dir:
+        # join 拼接
+        res = os.path.join(file_path, i)
+
+        if os.path.isfile(res):
+            # print('文件：',res,type(res))
+            # li.append(res)
+
+            # 读取文件内容
+            with open(res, 'r', encoding='utf-8')as file:
+                f1 = file.read()
+            # 复制
+            with open(r'D:\py31\git_code\py31\day10OS模块，异常Try\cp_file', 'a', encoding='utf-8')as file:
+                f2 = file.write(f1)
+
+
+file_copy(r"D:\py31\git_code\py31\day10OS模块，异常Try")
+
+# 去掉文件名 返回目录
+# res = os.path.dirname(r'D:\py31\git_code\py31\day10OS模块，异常Try\day10_01笔记.py')
+# print(res) #D:\py31\git_code\py31\day10OS模块，异常Try
+
+
+"""
+============================
+Author:小白31
+Time:2020/7/21 22:43
+E-mail:1359239107@qq.com
+============================
+"""
