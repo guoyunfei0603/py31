@@ -1,0 +1,153 @@
+"""
+============================
+Author:小白31
+Time:2020/7/22 22:47
+E-mail:1359239107@qq.com
+============================
+"""
+import os
+'''
+
+
+'''
+
+# 去掉文件名 返回目录
+# res = os.path.dirname(r'D:\py31\git_code\py31\day10OS模块，异常Try\day10_01笔记.py')
+# print(res) #D:\py31\git_code\py31\day10OS模块，异常Try
+
+# 当前包路径
+# package_path = os.path.abspath('.')
+
+# join 拼接路径
+f1 = r'D:\py31\git_code\py31\day10OS模块，异常Try'
+f2 = 'home_work1.py'
+
+res = os.path.join(f1, f2)
+print(res)
+
+# 获取绝对路径
+res3 = os.path.abspath(".")
+print(res3)
+
+print("__file__:",__file__)
+res = os.path.abspath(__file__)
+print(res)
+
+"""
+============================
+Author:小白31
+Time:2020/7/23 0:14
+E-mail:1359239107@qq.com
+============================
+"""
+'''
+找错误原因：
+从下往上，不是自己的文件忽略，根据错误类型，信息定位
+
+
+异常处理：
+try:
+    有可能会出现错误的代码，放到try下面
+except:
+    当try里面的代码出错了，就会执行except里面的代码（可以在此处，处理异常）
+    else:
+    try里面的代码没有出现异常就会执行else
+finally:
+    不管try里面的代码是否出现异常，始终都会执行
+
+# try里面的代码
+1、涉及用户输入
+2、涉及到文件操作
+3、涉及到网络请求
+
+通过异常捕获可以提高代码的容错性
+
+'''
+"""
+============================
+Author:小白31
+Time:2020/7/22 23:26
+E-mail:1359239107@qq.com
+============================
+"""
+
+# 1、实现一个文件复制器函数，通过给函数传入一个路径，复制该路径下面所有的文件(目录不用复制)到当前目录，
+# 要求：如果传路径不存在，不能报错                提示：os模块结合文件读写操作 、异常捕获 即可实现
+import os
+
+
+def file_copy(file_path):
+    # 获取当前路径下的文件、文件夹
+    list_dir = os.listdir(file_path)
+
+    # 遍历目录下每个文件、文件夹
+    for i in list_dir:
+        # join 拼接
+        res = os.path.join(file_path, i)
+
+        if os.path.isfile(res):
+            # print('文件：',res,type(res))
+            # li.append(res)
+
+            try:
+                # 读取文件内容
+                with open(res, 'r', encoding='utf-8')as file:
+                    f1 = file.read()
+                # 复制  ===>这个 是写入，如果多个文件没法处理
+                with open(r'D:\py31\git_code\py31\day10OS模块，异常Try\cp_file', 'a', encoding='utf-8')as file:
+                    f2 = file.write(f1)
+            except Exception as e:
+                print("错误信息为：",e)
+
+
+file_copy(r"D:\py31\git_code\py31\day10OS模块，异常Try")
+
+
+
+"""
+============================
+Author:小白31
+Time:2020/7/23 0:11
+E-mail:1359239107@qq.com
+============================
+"""
+
+'''
+2、优化之前作业的石头剪刀布游戏，用户输入时，如果输入非数字会引发异常，请通过异常捕获来处理这个问题。
+'''
+import random
+
+while True:
+    try:
+        user = int(input("请出拳：石头（1）／剪刀（2）／布（3）/退出（4）  :"))
+
+        random_num = random.randint(1, 3)
+        dic = {"石头": 1, "剪刀": 2, "步": 3, "退出": 4}
+
+        if user in dic.values():
+            # 退出
+            if user == dic["退出"]:
+                print("已退出")
+                break
+            # 用户胜
+            elif user - random_num == -1 or user - random_num == 2:
+                print("电脑随机出拳是：{}".format(random_num))
+                print("用户胜！")
+            # 用户负
+            elif user - random_num == -2 or user - random_num == 1:
+                print("电脑随机出拳是：{}".format(random_num))
+                print("用户负")
+            # 平局
+            elif user - random_num == 0:
+                print("电脑随机出拳是：{}".format(random_num))
+                print("平局")
+        else:
+            print("输入有误~")
+    except ValueError :
+        print("请输入数字！")"""
+============================
+Author:小白31
+Time:2020/7/21 22:43
+E-mail:1359239107@qq.com
+============================
+"""
