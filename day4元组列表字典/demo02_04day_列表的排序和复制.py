@@ -34,10 +34,10 @@ copy:复制
 
 # 2、列表反转reverse
 # 如何将一个列表中元素的位置反转
-# li = [11, 22, '11', 'ccc', 111, 2222, 3333]
-# print(li[::-1])
-# li.reverse()
-# print(li)
+li = [11, 22, '11', 'ccc', 111, 2222, 3333]
+print(li[::-1])
+li.reverse()
+print(li)
 
 # 3,复制列表
 li = [11, 22, 33]
