@@ -17,4 +17,13 @@ class CaseData:
 '''
 
 
+class CaseData:
+    pass
 
+
+dic = {'case_id': 1, 'method': 'post', 'url': '/member/login', 'data': '123', 'actual': '不通过', 'excepted': '通过'}
+for k,v in dic.items():
+    setattr(CaseData,k,v)
+
+# setattr(CaseData,'caseid',100)
+print(CaseData.__dict__)
