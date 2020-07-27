@@ -56,6 +56,15 @@ users = [{'name': '小明', 'age': 18, 'gender': '男'},
          {'name': '小李', 'age': 19, 'gender': '男'},
          {'name': '小美', 'age': 17, 'gender': '女'}]
 
+'''优化版本'''
+list1 = []
+for item in users_info:
+    dic = dict(zip(users_title,item))
+
+    list1.append(dic)
+print(list1)
+
+'''旧版本 忽略'''
 # list1 = []
 # for item in users_info:
 #     dic ={}
@@ -64,14 +73,9 @@ users = [{'name': '小明', 'age': 18, 'gender': '男'},
 #     list1.append(dic)
 # print(list1)
 
-# a = ["name", "age", "gender","url","123"]
-# b = ['小明', 18, '男']
-# res = dict(zip(a,b))
-# print(res)
+a = ["name", "age", "gender","url","123"]
+b = ['小明', 18, '男']
+res = dict(zip(a,b))
+print(res)
 
-# list1 = []
-# for item in users_info:
-#     dic = dict(zip(users_title,item))
-#
-#     list1.append(dic)
-# print(list1)
+

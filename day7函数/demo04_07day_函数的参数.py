@@ -64,6 +64,7 @@ def func2(*args, **kwargs):
     print(args)
     print(kwargs)
 
+
 func2(1111, 2222, 333, 4444, a=11, b=22, c=33)
 
 # 实参的讲解
@@ -88,5 +89,3 @@ func2(1111, 2222, 333, 4444, a=11, b=22, c=33)
 # print_func(5)
 # print_func(6)
 # print_func(50)
-
-

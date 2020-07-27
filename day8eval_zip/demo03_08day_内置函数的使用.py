@@ -31,14 +31,14 @@ bool:获取数据的布尔值
 
 
 # 求和：sum
-# li = [11, 22, 33, 44, 55]
+li = [11, 22, 33, 44, 55]
 # tu = (11, 22, 33, 44, 55, 66)
 # dic = {"a": 11, "b": 22, "c": 33}
 # res = sum(tu) + sum(li) + sum(dic.values())
 # print(res)
 
 # 求最大值：max
-# res = max(li)
+res = max(li)
 # print(res)
 
 # 最小值：min

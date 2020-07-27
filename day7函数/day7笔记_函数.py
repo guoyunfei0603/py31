@@ -88,13 +88,13 @@ add_fun(10,11)
     **加在实参前面（调用函数参数的时候使用），可以将字典拆包成多个关键字参数
 
 '''
-# def fun1(*args,**kwargs):
-#     print(args)
-#
-# tu = (111,222,333)
-# fun1(*tu)
-# def fun2(**kwargs):
-#     print(kwargs)
-#
-# dic = {'a': 1, 'b': 2, 'c': 3, 'd': 4}
-# fun2(**dic)
+def fun1(*args,**kwargs):
+    print(args)
+
+tu = (111,222,333)
+fun1(*tu)
+def fun2(**kwargs):
+    print(kwargs)
+
+dic = {'a': 1, 'b': 2, 'c': 3, 'd': 4}
+fun2(**dic)
