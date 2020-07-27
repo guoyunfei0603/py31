@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2020/7/7 10:50
 # @Author  : guoyunfei.0603
-# @File    : test1.py
+# @File    : review_1.py
 # 1、现有字符串    str1 = "PHP is the best, programming, language in, the world! "
 #       要求一：将给定字符串的PHP替换为Python
 #       要求二：替换以后，将字符串以逗号为分割点进行分割得到一个列表
