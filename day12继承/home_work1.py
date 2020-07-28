@@ -25,6 +25,7 @@ E-mail:1359239107@qq.com
 
 
 class PhoneV1:
+    # 属性
     attr = '移动电话'
 
     def __init__(self, name, price, year):

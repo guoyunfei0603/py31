@@ -78,4 +78,6 @@ b = ['小明', 18, '男']
 res = dict(zip(a,b))
 print(res)
 
+import unittestreport
 
+unittestreport.HTMLTestRunnerNew.HTMLTestRunner
