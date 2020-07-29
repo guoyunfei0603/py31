@@ -8,7 +8,7 @@ Company:湖南零檬信息技术有限公司
 """
 
 import unittest
-from py31_13day.login import login_check
+from day13unittest初识.day13_teacher.login import login_check
 
 
 class TestLogin(unittest.TestCase):
