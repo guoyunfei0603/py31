@@ -13,10 +13,13 @@ from day13unittest初识.register import register
    有参数为空，            返回结果 {"code": 0, "msg": "所有参数不能为空"}   
    两次密码不一致          返回结果：{"code": 0, "msg": "两次密码不一致"}
    账户已存在              返回结果：{"code": 0, "msg": "该账户已存在"}
-   密码不在6-18位之间      返回结果：{"code": 0, "msg": "账号和密码必须在6-18位之间"}              
+   密码不在6-18位之间      返回结果：{"code": 0, "msg": "账号和密码必须在6-18位之间"}   
+   账号不在6-18位之间      返回结果：{"code": 0, "msg": "账号和密码必须在6-18位之间"}           
 '''
 
 '''为了控制用例执行顺序,以数字代替'''
+
+
 class TestRegister(unittest.TestCase):
     def setUp(self):
         pass
@@ -60,13 +63,25 @@ class TestRegister(unittest.TestCase):
         self.assertEqual(expected, res)
 
     def test_register_05(self):
-        '''密码不在6~18位'''
+        '''密码小于6位'''
         data = {"username": "python03", "password1": "lem", "password2": "lem"}
         expected = {"code": 0, "msg": "账号和密码必须在6-18位之间"}
         res = register(**data)
         self.assertEqual(expected, res)
 
+    def test_register_06(self):
+        '''账号小于6位'''
+        data = {"username": "py", "password1": "lem", "password2": "lem"}
+        expected = {"code": 0, "msg": "账号和密码必须在6-18位之间"}
+        res = register(**data)
+        self.assertEqual(expected, res)
 
+    def test_register_06(self):
+        '''账号大于18位'''
+        data = {"username": "pydasda12312312312sdadadadasdasdads", "password1": "lem", "password2": "lem"}
+        expected = {"code": 0, "msg": "账号和密码必须在6-18位之间"}
+        res = register(**data)
+        self.assertEqual(expected, res)
 
 # if __name__ == '__main__':
 #     unittest.main()
