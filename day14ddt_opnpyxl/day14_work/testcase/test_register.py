@@ -12,7 +12,7 @@ import ddt
 
 # 从excel读取的测试数据
 testdata = Excel(r"D:\py31\git_code\py31\day14ddt_opnpyxl\day14_work\testdata.xlsx", "register").read_data()
-print(testdata)
+print("测试数据：",testdata)
 # testdata = [
 #     {"expected": {"code": 1, "msg": "注册成功"}, "data": ('python3', '123456', '123456')},
 #     {"expected": {"code": 0, "msg": "两次密码不一致"}, "data": ('python4', '1234567', '123456')},
@@ -27,13 +27,15 @@ print(testdata)
 class TestRegister(unittest.TestCase):
     @ddt.data(*testdata)
     def test_case(self,item):
-        print(item)
+        """测试标题"""
+        # title = item["title"]
+
         # 测试数据
         data = eval(item["data"])
         # 预期结果
         expected = eval(item["expected"])
         # 调用被测方法，获取实际结果
-        res = register(*data)
+        res = register(**data)
         # 比对
         self.assertEqual(expected,res)
 
