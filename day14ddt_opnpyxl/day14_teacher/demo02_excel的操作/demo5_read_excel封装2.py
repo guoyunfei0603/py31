@@ -47,7 +47,7 @@ class Excel:
         wb.save(self.filename)
 
 
-if __name__ == '__main__':
-    excel = Excel("cases.xlsx", "register")
-    data = excel.read_data()
-    print(data)
+# if __name__ == '__main__':
+#     excel = Excel("cases.xlsx", "register")
+#     data = excel.read_data()
+#     print(data)
