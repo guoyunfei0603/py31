@@ -10,15 +10,15 @@ from tools.hand_excel import HandExcel
 from day15excel优化和结果回写.day15home_work.register import register
 from tools import myddt
 
-# 测试用例数据
-excel = HandExcel(r"D:\py31\git_code\py31\day15excel优化和结果回写\day15home_work\case_data.xlsx", "register")
-
-testdata = excel.read_excel()
-# print(testdata)
 
 
 @myddt.ddt
 class TestLogin(unittest.TestCase):
+    # 测试用例数据
+    excel = HandExcel(r"D:\py31\git_code\py31\day15excel优化和结果回写\day15home_work\case_data.xlsx", "register")
+
+    testdata = excel.read_excel()
+    print(testdata)
     @myddt.data(*testdata)
     def test_register(self, item):
         # 测试数据
@@ -31,11 +31,11 @@ class TestLogin(unittest.TestCase):
         try:
             self.assertEqual(expected, res)
         except AssertionError as e:
-            excel.write_excel(row=item["case_id"] + 1, col=5, value="failed")
+            self.excel.write_excel(row=item["case_id"] + 1, col=5, value="failed")
             print("{}: 用例执行失败，错误信息:{}".format(item["title"], e))
             raise e
         else:
-            excel.write_excel(row=item["case_id"] + 1, col=5, value="pass")
+            self.excel.write_excel(row=item["case_id"] + 1, col=5, value="pass")
             print("{}: 用例执行通过".format(item["title"]))
 
 

@@ -1,0 +1,4 @@
+2020-08-04 21:10:12,350 - [demo3_loggin日志轮转.py-->line:61] - INFO: ----info-----日志
+2020-08-04 21:10:12,372 - [demo3_loggin日志轮转.py-->line:62] - WARNING: ----warning-----日志
+2020-08-04 21:10:12,372 - [demo3_loggin日志轮转.py-->line:63] - ERROR: ----error-----日志
+2020-08-04 21:10:12,372 - [demo3_loggin日志轮转.py-->line:64] - CRITICAL: ---critical-----日志

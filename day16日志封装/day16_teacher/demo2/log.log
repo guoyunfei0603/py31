@@ -1,0 +1,312 @@
+2020-08-04 21:49:45,366 - [test_login.py-->line:49] - INFO: 登录成功:用例测试执行通过！！！
+2020-08-04 21:49:45,495 - [test_login.py-->line:42] - ERROR: 账号为空:用例执行失败，失败的信息如下：
+2020-08-04 21:49:45,496 - [test_login.py-->line:44] - ERROR: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+Traceback (most recent call last):
+  File "C:\project\py31_class\py31_16day\demo2\testcase\test_login.py", line 38, in test_login
+    self.assertEqual(expected, res)
+  File "C:\python37\lib\unittest\case.py", line 839, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\python37\lib\unittest\case.py", line 1138, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\python37\lib\unittest\case.py", line 680, in fail
+    raise self.failureException(msg)
+AssertionError: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+
+2020-08-04 21:49:45,626 - [test_login.py-->line:42] - ERROR: 密码为空:用例执行失败，失败的信息如下：
+2020-08-04 21:49:45,627 - [test_login.py-->line:44] - ERROR: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+Traceback (most recent call last):
+  File "C:\project\py31_class\py31_16day\demo2\testcase\test_login.py", line 38, in test_login
+    self.assertEqual(expected, res)
+  File "C:\python37\lib\unittest\case.py", line 839, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\python37\lib\unittest\case.py", line 1138, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\python37\lib\unittest\case.py", line 680, in fail
+    raise self.failureException(msg)
+AssertionError: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+
+2020-08-04 21:49:45,769 - [test_login.py-->line:49] - INFO: 密码错误:用例测试执行通过！！！
+2020-08-04 21:49:45,946 - [test_register.py-->line:46] - INFO: 用例--注册成功--执行通过
+2020-08-04 21:49:46,152 - [test_register.py-->line:46] - INFO: 用例--两次密码不一样--执行通过
+2020-08-04 21:49:46,336 - [test_register.py-->line:46] - INFO: 用例--账号已经被注册--执行通过
+2020-08-04 21:49:46,550 - [test_register.py-->line:46] - INFO: 用例--密码长度少于6位--执行通过
+2020-08-04 21:51:59,041 - [test_login.py-->line:49] - INFO: 登录成功:用例测试执行通过！！！
+2020-08-04 21:51:59,041 - [test_login.py-->line:49] - INFO: 登录成功:用例测试执行通过！！！
+2020-08-04 21:51:59,041 - [test_login.py-->line:49] - INFO: 登录成功:用例测试执行通过！！！
+2020-08-04 21:51:59,041 - [test_login.py-->line:49] - INFO: 登录成功:用例测试执行通过！！！
+2020-08-04 21:51:59,154 - [test_login.py-->line:42] - ERROR: 账号为空:用例执行失败，失败的信息如下：
+2020-08-04 21:51:59,154 - [test_login.py-->line:42] - ERROR: 账号为空:用例执行失败，失败的信息如下：
+2020-08-04 21:51:59,154 - [test_login.py-->line:42] - ERROR: 账号为空:用例执行失败，失败的信息如下：
+2020-08-04 21:51:59,154 - [test_login.py-->line:42] - ERROR: 账号为空:用例执行失败，失败的信息如下：
+2020-08-04 21:51:59,155 - [test_login.py-->line:44] - ERROR: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+Traceback (most recent call last):
+  File "C:\project\py31_class\py31_16day\demo2\testcase\test_login.py", line 38, in test_login
+    self.assertEqual(expected, res)
+  File "C:\python37\lib\unittest\case.py", line 839, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\python37\lib\unittest\case.py", line 1138, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\python37\lib\unittest\case.py", line 680, in fail
+    raise self.failureException(msg)
+AssertionError: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+
+2020-08-04 21:51:59,155 - [test_login.py-->line:44] - ERROR: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+Traceback (most recent call last):
+  File "C:\project\py31_class\py31_16day\demo2\testcase\test_login.py", line 38, in test_login
+    self.assertEqual(expected, res)
+  File "C:\python37\lib\unittest\case.py", line 839, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\python37\lib\unittest\case.py", line 1138, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\python37\lib\unittest\case.py", line 680, in fail
+    raise self.failureException(msg)
+AssertionError: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+
+2020-08-04 21:51:59,155 - [test_login.py-->line:44] - ERROR: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+Traceback (most recent call last):
+  File "C:\project\py31_class\py31_16day\demo2\testcase\test_login.py", line 38, in test_login
+    self.assertEqual(expected, res)
+  File "C:\python37\lib\unittest\case.py", line 839, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\python37\lib\unittest\case.py", line 1138, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\python37\lib\unittest\case.py", line 680, in fail
+    raise self.failureException(msg)
+AssertionError: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+
+2020-08-04 21:51:59,155 - [test_login.py-->line:44] - ERROR: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+Traceback (most recent call last):
+  File "C:\project\py31_class\py31_16day\demo2\testcase\test_login.py", line 38, in test_login
+    self.assertEqual(expected, res)
+  File "C:\python37\lib\unittest\case.py", line 839, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\python37\lib\unittest\case.py", line 1138, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\python37\lib\unittest\case.py", line 680, in fail
+    raise self.failureException(msg)
+AssertionError: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+
+2020-08-04 21:51:59,289 - [test_login.py-->line:42] - ERROR: 密码为空:用例执行失败，失败的信息如下：
+2020-08-04 21:51:59,289 - [test_login.py-->line:42] - ERROR: 密码为空:用例执行失败，失败的信息如下：
+2020-08-04 21:51:59,289 - [test_login.py-->line:42] - ERROR: 密码为空:用例执行失败，失败的信息如下：
+2020-08-04 21:51:59,289 - [test_login.py-->line:42] - ERROR: 密码为空:用例执行失败，失败的信息如下：
+2020-08-04 21:51:59,290 - [test_login.py-->line:44] - ERROR: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+Traceback (most recent call last):
+  File "C:\project\py31_class\py31_16day\demo2\testcase\test_login.py", line 38, in test_login
+    self.assertEqual(expected, res)
+  File "C:\python37\lib\unittest\case.py", line 839, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\python37\lib\unittest\case.py", line 1138, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\python37\lib\unittest\case.py", line 680, in fail
+    raise self.failureException(msg)
+AssertionError: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+
+2020-08-04 21:51:59,290 - [test_login.py-->line:44] - ERROR: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+Traceback (most recent call last):
+  File "C:\project\py31_class\py31_16day\demo2\testcase\test_login.py", line 38, in test_login
+    self.assertEqual(expected, res)
+  File "C:\python37\lib\unittest\case.py", line 839, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\python37\lib\unittest\case.py", line 1138, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\python37\lib\unittest\case.py", line 680, in fail
+    raise self.failureException(msg)
+AssertionError: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+
+2020-08-04 21:51:59,290 - [test_login.py-->line:44] - ERROR: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+Traceback (most recent call last):
+  File "C:\project\py31_class\py31_16day\demo2\testcase\test_login.py", line 38, in test_login
+    self.assertEqual(expected, res)
+  File "C:\python37\lib\unittest\case.py", line 839, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\python37\lib\unittest\case.py", line 1138, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\python37\lib\unittest\case.py", line 680, in fail
+    raise self.failureException(msg)
+AssertionError: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+
+2020-08-04 21:51:59,290 - [test_login.py-->line:44] - ERROR: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+Traceback (most recent call last):
+  File "C:\project\py31_class\py31_16day\demo2\testcase\test_login.py", line 38, in test_login
+    self.assertEqual(expected, res)
+  File "C:\python37\lib\unittest\case.py", line 839, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\python37\lib\unittest\case.py", line 1138, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\python37\lib\unittest\case.py", line 680, in fail
+    raise self.failureException(msg)
+AssertionError: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+
+2020-08-04 21:51:59,413 - [test_login.py-->line:49] - INFO: 密码错误:用例测试执行通过！！！
+2020-08-04 21:51:59,413 - [test_login.py-->line:49] - INFO: 密码错误:用例测试执行通过！！！
+2020-08-04 21:51:59,413 - [test_login.py-->line:49] - INFO: 密码错误:用例测试执行通过！！！
+2020-08-04 21:51:59,413 - [test_login.py-->line:49] - INFO: 密码错误:用例测试执行通过！！！
+2020-08-04 21:51:59,574 - [test_register.py-->line:46] - INFO: 用例--注册成功--执行通过
+2020-08-04 21:51:59,574 - [test_register.py-->line:46] - INFO: 用例--注册成功--执行通过
+2020-08-04 21:51:59,574 - [test_register.py-->line:46] - INFO: 用例--注册成功--执行通过
+2020-08-04 21:51:59,574 - [test_register.py-->line:46] - INFO: 用例--注册成功--执行通过
+2020-08-04 21:51:59,696 - [test_register.py-->line:46] - INFO: 用例--两次密码不一样--执行通过
+2020-08-04 21:51:59,696 - [test_register.py-->line:46] - INFO: 用例--两次密码不一样--执行通过
+2020-08-04 21:51:59,696 - [test_register.py-->line:46] - INFO: 用例--两次密码不一样--执行通过
+2020-08-04 21:51:59,696 - [test_register.py-->line:46] - INFO: 用例--两次密码不一样--执行通过
+2020-08-04 21:51:59,844 - [test_register.py-->line:46] - INFO: 用例--账号已经被注册--执行通过
+2020-08-04 21:51:59,844 - [test_register.py-->line:46] - INFO: 用例--账号已经被注册--执行通过
+2020-08-04 21:51:59,844 - [test_register.py-->line:46] - INFO: 用例--账号已经被注册--执行通过
+2020-08-04 21:51:59,844 - [test_register.py-->line:46] - INFO: 用例--账号已经被注册--执行通过
+2020-08-04 21:51:59,980 - [test_register.py-->line:46] - INFO: 用例--密码长度少于6位--执行通过
+2020-08-04 21:51:59,980 - [test_register.py-->line:46] - INFO: 用例--密码长度少于6位--执行通过
+2020-08-04 21:51:59,980 - [test_register.py-->line:46] - INFO: 用例--密码长度少于6位--执行通过
+2020-08-04 21:51:59,980 - [test_register.py-->line:46] - INFO: 用例--密码长度少于6位--执行通过
+2020-08-04 21:53:12,085 - [test_login.py-->line:49] - INFO: 登录成功:用例测试执行通过！！！
+2020-08-04 21:53:12,272 - [test_login.py-->line:42] - ERROR: 账号为空:用例执行失败，失败的信息如下：
+2020-08-04 21:53:12,272 - [test_login.py-->line:44] - ERROR: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+Traceback (most recent call last):
+  File "C:\project\py31_class\py31_16day\demo2\testcase\test_login.py", line 38, in test_login
+    self.assertEqual(expected, res)
+  File "C:\python37\lib\unittest\case.py", line 839, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\python37\lib\unittest\case.py", line 1138, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\python37\lib\unittest\case.py", line 680, in fail
+    raise self.failureException(msg)
+AssertionError: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+
+2020-08-04 21:53:12,465 - [test_login.py-->line:42] - ERROR: 密码为空:用例执行失败，失败的信息如下：
+2020-08-04 21:53:12,465 - [test_login.py-->line:44] - ERROR: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+Traceback (most recent call last):
+  File "C:\project\py31_class\py31_16day\demo2\testcase\test_login.py", line 38, in test_login
+    self.assertEqual(expected, res)
+  File "C:\python37\lib\unittest\case.py", line 839, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\python37\lib\unittest\case.py", line 1138, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\python37\lib\unittest\case.py", line 680, in fail
+    raise self.failureException(msg)
+AssertionError: {'code': 1, 'msg': '所以的参数不能为空'} != {'code': 1, 'msg': '账号或密码不正确'}
+- {'code': 1, 'msg': '所以的参数不能为空'}
+?                     ^^^^^ ^^^
+
++ {'code': 1, 'msg': '账号或密码不正确'}
+?                     ^^^^^ ^^
+
+2020-08-04 21:53:12,653 - [test_login.py-->line:49] - INFO: 密码错误:用例测试执行通过！！！
+2020-08-04 21:53:12,852 - [test_register.py-->line:46] - INFO: 用例--注册成功--执行通过
+2020-08-04 21:53:13,056 - [test_register.py-->line:46] - INFO: 用例--两次密码不一样--执行通过
+2020-08-04 21:53:13,244 - [test_register.py-->line:46] - INFO: 用例--账号已经被注册--执行通过
+2020-08-04 21:53:13,405 - [test_register.py-->line:46] - INFO: 用例--密码长度少于6位--执行通过

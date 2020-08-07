@@ -12,17 +12,19 @@ class HandExcel:
     def __init__(self, filename, sheetname):
         self.filename = filename
         self.sheetname = sheetname
+        self.wb = openpyxl.load_workbook(filename)
+        self.sh = self.wb[sheetname]
 
-    def open_excel(self):
-        """打开excel表单"""
-        # 设置为实例属性
-        self.wb = openpyxl.load_workbook(self.filename)
-
-        self.sh = self.wb[self.sheetname]
+    # def open_excel(self):
+    #     """打开excel表单"""
+    #     # 设置为实例属性
+    #     self.wb = openpyxl.load_workbook(self.filename)
+    #
+    #     self.sh = self.wb[self.sheetname]
 
     def read_excel(self):
         """读取excel表格数据"""
-        self.open_excel()
+        # self.open_excel()
 
         '''
         1. 因为此处要用到 sh.rows
