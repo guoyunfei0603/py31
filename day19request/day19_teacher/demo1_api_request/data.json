@@ -1,0 +1,1827 @@
+{
+  "status": 1,
+  "toplists": [
+    {
+      "id": "MDAwMDAwMDAwMLSsrd2GqbNr",
+      "issys": "0",
+      "coursename": "python\u6d4b\u5f005\u671f\u8003\u8bd5\u4e13\u7528",
+      "code": "K6EYK3",
+      "stopcode": "0",
+      "classname": "",
+      "semester": "2020-2021",
+      "term": "1",
+      "username": "\u67e0\u6aac\u73ed--\u4e39\u4e39",
+      "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/22.png",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/24.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/24.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/24.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/24.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/24.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/24.png",
+      "owner": false,
+      "total": "4",
+      "hlist": [],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLSsrd2GqbNr\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass3",
+      "inviteclass": "course-invite-color-3",
+      "tclass": "tclass-3",
+      "students": [
+        {
+          "username": "\u7c73\u6f47-\u6df1\u5733",
+          "uid": "MDAwMDAwMDAwMLOcy5iG37OvhctyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/32.png"
+        },
+        {
+          "username": "\u601d\u742a",
+          "uid": "MDAwMDAwMDAwMLSGz96Hqb9phctyoQ",
+          "avatar": "http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/PiajxSqBRaEIWjlibnkHbvRGhxdCiaG2zQWyBrzJ5iaYwiaFFMteVyQoaS986xyXNiakLcoJWCERyqVIocDtiaLj9kTcQ\/132"
+        },
+        {
+          "username": "virgil",
+          "uid": "MDAwMDAwMDAwMLOsuZeGz7evhNtyoQ",
+          "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2019-09-04\/1567578627.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912493495&Signature=kR7BU%2BGPbqrLx9wUtCIKFy%2Fp3No%3D"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLSsrd6Gqb9s",
+      "issys": "0",
+      "coursename": "\u6d4b\u5f00\u8003\u8bd5\u4e13\u7528",
+      "code": "SXQY2J",
+      "stopcode": "0",
+      "classname": "",
+      "semester": "2020-2021",
+      "term": "1",
+      "username": "\u67e0\u6aac\u73ed--\u4e39\u4e39",
+      "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/22.png",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/20.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/20.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/20.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/20.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/20.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/20.png",
+      "owner": false,
+      "total": "1",
+      "hlist": [],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLSsrd6Gqb9s\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass2",
+      "inviteclass": "course-invite-color-2",
+      "tclass": "tclass-2",
+      "students": [
+        {
+          "username": "\u66fe\u6587\u6d77",
+          "uid": "MDAwMDAwMDAwMLSGz96G36dqhbVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/22.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLSsrduH37tp",
+      "issys": "0",
+      "coursename": "python\u6d4b\u5f00\u7b2c5\u671f",
+      "code": "GMDFJC",
+      "stopcode": "0",
+      "classname": "",
+      "semester": "2020-2021",
+      "term": "1",
+      "username": "\u67e0\u6aac\u73ed--\u4e39\u4e39",
+      "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/22.png",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/01.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/01.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/39.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/39.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/39.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/39.png",
+      "owner": false,
+      "total": "12",
+      "hlist": [],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLSsrduH37tp\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass1",
+      "inviteclass": "course-invite-color-1",
+      "tclass": "tclass-1",
+      "students": [
+        {
+          "username": "\u5b89\u5b89",
+          "uid": "MDAwMDAwMDAwMLOssd2IubNthbVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/40.png"
+        },
+        {
+          "username": "\u70bd",
+          "uid": "MDAwMDAwMDAwMLOssZWGuclqhLVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/30.png"
+        },
+        {
+          "username": "\u5462\u5583",
+          "uid": "MDAwMDAwMDAwMLOcy5mGz7OvhqVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/40.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLSsrduH369r",
+      "issys": "0",
+      "coursename": "Python\u5168\u6808\u7b2c33\u671f",
+      "code": "VEWGVN",
+      "stopcode": "0",
+      "classname": "",
+      "semester": "2020-2021",
+      "term": "1",
+      "username": "\u67e0\u6aac\u73ed-\u661f\u661f",
+      "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2018-04-11\/1523411221.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513800&Signature=1TDYd1LwfT%2BKSF3FooH%2BZ1iz7SU%3D",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/24.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/24.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/24.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/24.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/24.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/24.png",
+      "owner": false,
+      "total": "11",
+      "hlist": [],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLSsrduH369r\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass0",
+      "inviteclass": "course-invite-color-0",
+      "tclass": "tclass-0",
+      "students": [
+        {
+          "username": "\u6d41\u661f",
+          "uid": "MDAwMDAwMDAwMLOcuZWH36ewhbVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/34.png"
+        },
+        {
+          "username": "\u5357\u5c71\u5357",
+          "uid": "MDAwMDAwMDAwMLOsuduGubtphrVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/40.png"
+        },
+        {
+          "username": "\u5c0f\u96e8",
+          "uid": "MDAwMDAwMDAwMLSGy5mHz7dshNtyoQ",
+          "avatar": "http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/kViaA4HhiayVQcnTicYh8CKNOtmh0zOzNNVVmdv8QIVnIuibvU8s3ZP6In6fxaEZCVftocow2WAWBWuxeNmRUxS9uA\/132"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLSGvZiHz6ts",
+      "issys": "0",
+      "coursename": "Java\u5168\u6808\u7b2c18\u671f",
+      "code": "YRBZK2",
+      "stopcode": "1",
+      "classname": "",
+      "semester": "2020-2021",
+      "term": "1",
+      "username": "\u4e22\u4e22",
+      "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/35.png",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/17.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/17.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/17.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/17.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/17.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/17.png",
+      "owner": false,
+      "total": "74",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLOGtZeG36uvhMtyoQ",
+          "title": "\u7c7b\u548c\u5bf9\u8c61",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLOGtZeGz7OwhKVyoQ",
+          "title": "\u6587\u4ef6\u64cd\u4f5c",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLSGvZiHz6ts\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass5",
+      "inviteclass": "course-invite-color-5",
+      "tclass": "tclass-5",
+      "students": [
+        {
+          "username": "\u848b\u848b",
+          "uid": "MDAwMDAwMDAwMLOcx5eHqaevhdtyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/20.png"
+        },
+        {
+          "username": "\u569e",
+          "uid": "MDAwMDAwMDAwMLSGvZWG37OyhLVyoQ",
+          "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2020-04-24\/1587733909.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513781&Signature=4XSUSr%2Bds4V2OQ2yAtbENz%2BWMPE%3D"
+        },
+        {
+          "username": "\u963f\u6cfd",
+          "uid": "MDAwMDAwMDAwMLSGvZSG39FshKVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/27.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLScx5SHqbNo",
+      "issys": "0",
+      "coursename": "python\u81ea\u52a8\u5316\u7b2c31\u671f",
+      "code": "L5JSSS",
+      "stopcode": "0",
+      "classname": "python",
+      "semester": "2020-2021",
+      "term": "1",
+      "username": "\u67e0\u6aac\u73ed-\u7389\u7c73",
+      "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2020-07-04\/1593841837.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513800&Signature=tQ8awqUcdfgA%2FO6D8DhnMg4aIpY%3D",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/14.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/14.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/14.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/14.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/14.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/14.png",
+      "owner": false,
+      "total": "160",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLOGtZeHqatqhMtyoQ",
+          "title": "\u8def\u5f84\u4f18\u5316\u548c\u914d\u7f6e\u6587\u4ef6",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLOGtZeGz7exhctyoQ",
+          "title": "excel\u64cd\u4f5c\u5c01\u88c5\u4f18\u5316\u53ca\u5e94\u7528",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLScx5SHqbNo\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass4",
+      "inviteclass": "course-invite-color-4",
+      "tclass": "tclass-4",
+      "students": [
+        {
+          "username": "\u5c0f\u767d\u83dc",
+          "uid": "MDAwMDAwMDAwMLSGz92IuatohLVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/35.png"
+        },
+        {
+          "username": "excellent\uff08\u8096\u6c5f\uff09",
+          "uid": "MDAwMDAwMDAwMLSGz9yIudFshqVyoQ",
+          "avatar": "http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eqwcfotKm4M62O2Hy9fiatC5ErVCWzuZ7zeYpKnRCSeFOTsOVuQNhAHZJUMNtdBQNZlkdqdCiaAFpuQ\/132"
+        },
+        {
+          "username": "jkl\uff08\u5bc7\u4eac\u9f99\uff09",
+          "uid": "MDAwMDAwMDAwMLSGz9yHz6drhaVyoQ",
+          "avatar": "http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eohrEBB0kKrGzRyIBN8xBlgHQ0ISuNFbuPcQknjKutbYZVa5N2w0hS3g3Erp2qAr7qe1RzGELZiaWQ\/132"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLSctZaH37dt",
+      "issys": "0",
+      "coursename": "\u6d4b\u5f004\u671f\u5165\u5b66\u8003\u8bd5-2",
+      "code": "NRM67Z",
+      "stopcode": "0",
+      "classname": "",
+      "semester": "2020-2021",
+      "term": "1",
+      "username": "\u67e0\u6aac\u73ed-\u661f\u661f",
+      "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2018-04-11\/1523411221.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513800&Signature=1TDYd1LwfT%2BKSF3FooH%2BZ1iz7SU%3D",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/29.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/29.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/29.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/29.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/29.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/29.png",
+      "owner": false,
+      "total": "1",
+      "hlist": [],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLSctZaH37dt\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass3",
+      "inviteclass": "course-invite-color-3",
+      "tclass": "tclass-3",
+      "students": [
+        {
+          "username": "\u8d85\u8d8a",
+          "uid": "MDAwMDAwMDAwMLOsrZeGqa9ohdtyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/26.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLSGz5aIuclq",
+      "issys": "0",
+      "coursename": "Python\u81ea\u52a8\u531629\u671f",
+      "code": "G338LU",
+      "stopcode": "1",
+      "classname": "",
+      "semester": "2020-2021",
+      "term": "1",
+      "username": "\u67e0\u6aac\u73ed-\u597d\u597d",
+      "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/21.png",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/01.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/01.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/43.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/43.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/43.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/43.png",
+      "owner": false,
+      "total": "163",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLOGtZeGubNphKVyoQ",
+          "title": "Python\u81ea\u52a8\u5316\u5165\u804coffer\u798f\u5229\u6765\u4e00\u6ce2~~~~",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLOGtZeGubNohNtyoQ",
+          "title": "\u901a\u8fc7PO\u6a21\u5f0f\u540c\u6b65\u4e0a\u8bfe\u4ee3\u7801",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLSGz5aIuclq\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass2",
+      "inviteclass": "course-invite-color-2",
+      "tclass": "tclass-2",
+      "students": [
+        {
+          "username": "\u5317\u4eac-\u5d14\u701a\u6587-29\u671f",
+          "uid": "MDAwMDAwMDAwMLOssZWHuclohNtyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/28.png"
+        },
+        {
+          "username": "\u6df1\u5733-\u60f3-29\u671f",
+          "uid": "MDAwMDAwMDAwMLSGx96HqcmwhaVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/21.png"
+        },
+        {
+          "username": "\u6b66\u6c49-\u5c0f\u51b2-29\u671f",
+          "uid": "MDAwMDAwMDAwMLSGx92Gqa-yhaVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/35.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLSGz92Huc1o",
+      "issys": "0",
+      "coursename": "py\u6d4b\u8bd5\u5f00\u53d14\u671f\u5165\u5b66\u8003\u8bd5",
+      "code": "GB4UVU",
+      "stopcode": "1",
+      "classname": "",
+      "semester": "2020-2021",
+      "term": "1",
+      "username": "\u67e0\u6aac\u73ed-\u661f\u661f",
+      "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2018-04-11\/1523411221.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513800&Signature=1TDYd1LwfT%2BKSF3FooH%2BZ1iz7SU%3D",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/16.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/16.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/16.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/16.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/16.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/16.png",
+      "owner": false,
+      "total": "0",
+      "hlist": [],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLSGz92Huc1o\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass1",
+      "inviteclass": "course-invite-color-1",
+      "tclass": "tclass-1",
+      "students": [],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLR2x9yHqbtt",
+      "issys": "0",
+      "coursename": "Python\u6d4b\u8bd5\u5f00\u53d1\u7b2c4\u671f",
+      "code": "ZQZCQW",
+      "stopcode": "1",
+      "classname": "",
+      "semester": "2019-2020",
+      "term": "1",
+      "username": "\u67e0\u6aac\u73ed--\u840c\u840c",
+      "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2019-12-09\/1575875633.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513800&Signature=UqlHM5srtQb7rmk93Rgb%2FAp5hXM%3D",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/01.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/01.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/37.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/37.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/37.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/37.png",
+      "owner": false,
+      "total": "100",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLOGtZeHqb9qhMtyoQ",
+          "title": "0808_\u7528\u4f8b\u6a21\u5757_\u914d\u7f6e\u6a21\u5757\u4f5c\u4e1a\u5e03\u7f6e",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLOGtZeG38lphbVyoQ",
+          "title": "0805_\u62a5\u544a\u6a21\u5757_\u7528\u4f8b\u6a21\u5757\u5b9e\u73b0",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLR2x9yHqbtt\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass0",
+      "inviteclass": "course-invite-color-0",
+      "tclass": "tclass-0",
+      "students": [
+        {
+          "username": "zzl",
+          "uid": "MDAwMDAwMDAwMLOcqZWHucmwhdtyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/39.png"
+        },
+        {
+          "username": "\u6614\u6614",
+          "uid": "MDAwMDAwMDAwMLOsx5aIqb9qhdtyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/26.png"
+        },
+        {
+          "username": "\u963f\u575a",
+          "uid": "MDAwMDAwMDAwMLOGz5SG37NohqVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/23.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLR2vZiGqa-v",
+      "issys": "0",
+      "coursename": "python\u5168\u6808\u7b2c27\u671f",
+      "code": "NYURYA",
+      "stopcode": "1",
+      "classname": "",
+      "semester": "2019-2020",
+      "term": "1",
+      "username": "\u67e0\u6aac\u73ed-\u661f\u661f",
+      "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2018-04-11\/1523411221.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513800&Signature=1TDYd1LwfT%2BKSF3FooH%2BZ1iz7SU%3D",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/02.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/02.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/02.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/02.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/02.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/02.png",
+      "owner": false,
+      "total": "166",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLOGtZaIqclrhbVyoQ",
+          "title": "python\u73ed\u7ea7\u5165\u804coffer\u798f\u5229\u6765\u4e00\u6ce2~ \u597d\u6d88\u606f\u6765\u88ad~\u6b32\u77e5\u8be6\u60c5\u8bf7\u70b9\u8fdb\u6765\u770b\u770b~",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLOGtd6Gz9FohqVyoQ",
+          "title": "20200618_Java_IO\u6d41&amp;amp;HashMap",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLR2vZiGqa-v\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass5",
+      "inviteclass": "course-invite-color-5",
+      "tclass": "tclass-5",
+      "students": [
+        {
+          "username": "\u5927\u4e91",
+          "uid": "MDAwMDAwMDAwMLSGqZiHudFqhrVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/40.png"
+        },
+        {
+          "username": "\u5c0f\u7693",
+          "uid": "MDAwMDAwMDAwMLSGqZeGubdohdtyoQ",
+          "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2020-02-29\/1582960053.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912506263&Signature=WrEX2cW8mQbmQJEfyRL81tiyr7Q%3D"
+        },
+        {
+          "username": "\u5f3a\u8005\u4e3a\u5c0a",
+          "uid": "MDAwMDAwMDAwMLSGqZaIubdohdtyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/34.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLR2ud6G36ew",
+      "issys": "0",
+      "coursename": "python\u5168\u6808\u7b2c26\u671f",
+      "code": "2VPDHG",
+      "stopcode": "1",
+      "classname": "",
+      "semester": "2019-2020",
+      "term": "1",
+      "username": "\u67e0\u6aac\u73ed--\u4e39\u4e39",
+      "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/22.png",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/01.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/01.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/01.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/01.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/01.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/01.png",
+      "owner": false,
+      "total": "224",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLOGtd2Iqa9qhqVyoQ",
+          "title": "python\u73ed\u7ea7\u5165\u804coffer\u798f\u5229\u6765\u4e00\u6ce2~ \u597d\u6d88\u606f\u6765\u88ad~\u6b32\u77e5\u8be6\u60c5\u8bf7\u70b9\u8fdb\u6765\u770b\u770b~",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLOGsZiG381qhaVyoQ",
+          "title": "20200527_Java_\u4e5d\u5bab\u683c\u89e3\u9501",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLR2ud6G36ew\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass4",
+      "inviteclass": "course-invite-color-4",
+      "tclass": "tclass-4",
+      "students": [
+        {
+          "username": "\u5341\u5e74",
+          "uid": "MDAwMDAwMDAwMLR2x5SIuatthaVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/38.png"
+        },
+        {
+          "username": "\u738b\u4f73\u4fca",
+          "uid": "MDAwMDAwMDAwMLR2x5SHuatshrVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/25.png"
+        },
+        {
+          "username": "miss\u3001\u77e5\u8fd4",
+          "uid": "MDAwMDAwMDAwMLOcvd2Hz9FohNtyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/26.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    }
+  ],
+  "lists": [
+    {
+      "id": "MDAwMDAwMDAwMLOsrZSHua9q",
+      "issys": "1",
+      "coursename": "\u719f\u6089  \u8bfe\u5802\u6d3e",
+      "code": "M8TNML",
+      "stopcode": "0",
+      "classname": null,
+      "semester": null,
+      "term": "0",
+      "isrecruit": "0",
+      "username": "\u6728\u68ee",
+      "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/30.png",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/01.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/01.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/01.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/01.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/01.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/01.png",
+      "owner": true,
+      "total": "20",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLR2z5WG36to",
+          "title": "\u5e78\u798f\u8bfe_\u7b2c\u4e00\u6b21\u4f5c\u4e1a",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLOsrZSHua9q\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass3",
+      "inviteclass": "course-invite-color-3",
+      "tclass": "tclass-3",
+      "students": [
+        {
+          "username": "\u9ad8\u65af",
+          "uid": "MDAwMDAwMDAwMLR2uaE",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/static\/soon\/images\/20\/3.jpg"
+        },
+        {
+          "username": "\u5b89\u57f9\n",
+          "uid": "MDAwMDAwMDAwMLSGvaE",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/static\/soon\/images\/20\/3.jpg"
+        },
+        {
+          "username": "\u8d1d\u5c14\n",
+          "uid": "MDAwMDAwMDAwMLSGx6E",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/static\/soon\/images\/20\/3.jpg"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLOspd2Gz79r",
+      "issys": "0",
+      "coursename": "Python\u5168\u6808\u7b2c15\u671f",
+      "code": "SRL7U3",
+      "stopcode": "1",
+      "classname": null,
+      "semester": null,
+      "term": "0",
+      "username": "\u4e22\u4e22",
+      "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/35.png",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/11.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/11.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/11.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/11.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/11.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/11.png",
+      "owner": false,
+      "total": "121",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLScuZmGqbOw",
+          "title": "python\u73ed\u7ea7\u5165\u804coffer\u798f\u5229\u6765\u4e00\u6ce2~",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLSGz9uG369o",
+          "title": "0703 - app\u5143\u7d20\u5b9a\u4f4d-\u5143\u7d20\u64cd\u4f5c - \u4f5c\u4e1a - \u540c\u6b65\u4e0a\u8bfe\u7684\u64cd\u4f5c\uff0c\u5b8c\u6210app\u5e38\u89c1\u64cd\u4f5c",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLOspd2Gz79r\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass2",
+      "inviteclass": "course-invite-color-2",
+      "tclass": "tclass-2",
+      "students": [
+        {
+          "username": "\u897f\u5b89\uff0dccn",
+          "uid": "MDAwMDAwMDAwMLSsy96H37do",
+          "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2017-06-18\/1497776976.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912508429&Signature=2poo5pEKfhOc1jD%2BUrKcd2jTxH0%3D"
+        },
+        {
+          "username": "\u6210\u90fd-cooper",
+          "uid": "MDAwMDAwMDAwMLOGy96G36dohbVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/20.png"
+        },
+        {
+          "username": "\u5c0f\u677e",
+          "uid": "MDAwMDAwMDAwMLOGsZaGuc2whLVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/26.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLOspd2Hqbtp",
+      "issys": "0",
+      "coursename": "\u67e0\u6aac\u73ed58\u671f",
+      "code": "L46VSX",
+      "stopcode": "1",
+      "classname": null,
+      "semester": null,
+      "term": "0",
+      "username": "\u67e0\u6aac\u73ed-\u6587\u6587",
+      "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2018-11-21\/1542787652.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513800&Signature=UZy%2BcqbaC1MYDlr3sY58ZYOF5kQ%3D",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/10.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/10.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/10.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/10.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/10.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/10.png",
+      "owner": false,
+      "total": "63",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLSGy92Iqcls",
+          "title": "58\u671f\u7684\u5b9d\u5b9d\u4eec~\u6765\u9886\u53d6\u7ed3\u4e1a\u89c6\u9891\u5566\uff01\uff01\uff01",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLSGvd6Iubdt",
+          "title": "5-13 java\u96c6\u5408-\u6b6a\u6b6a",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLOspd2Hqbtp\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass1",
+      "inviteclass": "course-invite-color-1",
+      "tclass": "tclass-1",
+      "students": [
+        {
+          "username": "\u5c0f\u8336",
+          "uid": "MDAwMDAwMDAwMLOspZmHqatthKVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/34.png"
+        },
+        {
+          "username": "\u6800\u6800",
+          "uid": "MDAwMDAwMDAwMLOspdyHqdFthMtyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/25.png"
+        },
+        {
+          "username": "\u590f\u590f",
+          "uid": "MDAwMDAwMDAwMLOcz9uIubexhbVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/23.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLOspZWIqb9o",
+      "issys": "0",
+      "coursename": "Python\u5168\u6808\u7b2c16\u671f",
+      "code": "NYB2C3",
+      "stopcode": "1",
+      "classname": null,
+      "semester": null,
+      "term": "0",
+      "username": "\u67e0\u6aac\u73ed-\u6587\u6587",
+      "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2018-11-21\/1542787652.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513800&Signature=UZy%2BcqbaC1MYDlr3sY58ZYOF5kQ%3D",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/20.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/20.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/20.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/20.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/20.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/20.png",
+      "owner": false,
+      "total": "151",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLScpZmHubNs",
+          "title": "Python\u73ed\u7ea7offer\u798f\u5229~~~",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLScpZWH37dp",
+          "title": "Robot\u5b9e\u6218\u4f5c\u4e1a\uff01\uff01\uff01",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLOspZWIqb9o\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass0",
+      "inviteclass": "course-invite-color-0",
+      "tclass": "tclass-0",
+      "students": [
+        {
+          "username": "\u5c0f\u4e3d",
+          "uid": "MDAwMDAwMDAwMLOspZiG36tshrVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/20.png"
+        },
+        {
+          "username": "\u96e8\u00b7\u00b7",
+          "uid": "MDAwMDAwMDAwMLOsrZeGua-whKVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/28.png"
+        },
+        {
+          "username": "\u9690",
+          "uid": "MDAwMDAwMDAwMLOsrZaGz9GyhctyoQ",
+          "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2019-04-01\/1554087999.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513782&Signature=tFLogxXCpu%2BxopJHikOm50pA2uA%3D"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLOspZaHqbOv",
+      "issys": "0",
+      "coursename": "\u9ad8\u85aa\u5c31\u4e1a\u901f\u6210\u73ed\u7b2c6\u671f",
+      "code": "D54RPS",
+      "stopcode": "1",
+      "classname": null,
+      "semester": null,
+      "term": "0",
+      "username": "\u6960\u5b50",
+      "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/21.png",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/28.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/28.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/28.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/28.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/28.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/28.png",
+      "owner": false,
+      "total": "30",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLSGud2Hz7ew",
+          "title": "\u8bf7\u5927\u5bb6\u5728\u8fd9\u91cc\u63d0\u4ea4\u7ed3\u4e1a\u89c6\u9891\u673a\u5668\u7801----\u4ec5\u9650Windows\u7cfb\u7edf\uff01\uff01\uff01",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLSGtZiG38mx",
+          "title": "4.22\uff1a\u63d0\u4ea4\u62db\u8003\u7cfb\u7edf\u6d4b\u8bd5\u70b9",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLOspZaHqbOv\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass5",
+      "inviteclass": "course-invite-color-5",
+      "tclass": "tclass-5",
+      "students": [
+        {
+          "username": "\u6d6e\u6c89",
+          "uid": "MDAwMDAwMDAwMLOsrd6Iuc2xhrVyoQ",
+          "avatar": "http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTKR2GOxXIqOeSYkTDlSeicOsxrficOMo0xEiaViasb2Ffz6XpDZxjGsiabmvS96meM218hH5IWAyZMibzXw\/132"
+        },
+        {
+          "username": "\u5de6\u53f3",
+          "uid": "MDAwMDAwMDAwMLOsrd6IqdFqhdtyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/23.png"
+        },
+        {
+          "username": "\u5411\u9633",
+          "uid": "MDAwMDAwMDAwMLOsrd6Hz81thrVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/28.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLOsrZSH36to",
+      "issys": "0",
+      "coursename": "python\u5168\u6808\u7b2c17\u671f",
+      "code": "3YZNRM",
+      "stopcode": "0",
+      "classname": null,
+      "semester": null,
+      "term": "0",
+      "username": "\u67e0\u6aac\u73ed-\u654f\u654f",
+      "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2019-11-04\/1572860860.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513800&Signature=DetiEYYdvu2oNNKiid7ZcG1lKkU%3D",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/01.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/01.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/01.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/01.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/01.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/01.png",
+      "owner": false,
+      "total": "161",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLScqZWGz7Ns",
+          "title": "python\u73ed\u7ea7\u5165\u804coffer\u798f\u5229\u6765\u4e00\u6ce2~",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLScpZWH37ey",
+          "title": "robot\u9879\u76ee\u5b9e\u6218  \uff01\uff01",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLOsrZSH36to\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass4",
+      "inviteclass": "course-invite-color-4",
+      "tclass": "tclass-4",
+      "students": [
+        {
+          "username": "A \u5c0f\u602a",
+          "uid": "MDAwMDAwMDAwMLOGsZSGua-yhbVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/32.png"
+        },
+        {
+          "username": "A \u5c0f\u751c\u5fc3",
+          "uid": "MDAwMDAwMDAwMLOstd2IuclthctyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/40.png"
+        },
+        {
+          "username": "\u65f6\u5149",
+          "uid": "MDAwMDAwMDAwMLOssdyH369qhaVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/22.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLOstZSHqadq",
+      "issys": "0",
+      "coursename": "Python\u5168\u6808\u7b2c18\u671f",
+      "code": "KXAL5W",
+      "stopcode": "1",
+      "classname": null,
+      "semester": null,
+      "term": "0",
+      "username": "\u4e22\u4e22",
+      "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/35.png",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/01.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/01.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/01.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/01.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/01.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/01.png",
+      "owner": false,
+      "total": "132",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLScuZmGqbNp",
+          "title": "Python\u81ea\u52a8\u5316\u5165\u804coffer\u798f\u5229\u6765\u4e00\u6ce2~~~~",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLScpZaG37Ox",
+          "title": "app\u64cd\u4f5c+\u9879\u76ee\u5b9e\u6218 --- \u81ea\u5df1\u52a8\u624b\uff0c\u4e30\u8863\u8db3\u98df\uff01\uff01\u9053\u7406\u90fd\u61c2\uff0c\u4f46\u662f\u8def\u8fd8\u662f\u5f97\u81ea\u5df1\u8d70\uff01\uff01\uff01",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLOstZSHqadq\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass3",
+      "inviteclass": "course-invite-color-3",
+      "tclass": "tclass-3",
+      "students": [
+        {
+          "username": "\u6c90\u6dcb",
+          "uid": "MDAwMDAwMDAwMLOssdyG369rhdtyoQ",
+          "avatar": "http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoBKbayJeSYu0Iz1LvnGkgBbtwvia9vnmicWu9w5B0KSmcVpBa67VvbibyJ1ia0l5QqfcCxbk9szIF3Uw\/132"
+        },
+        {
+          "username": "\u590f\u76ee",
+          "uid": "MDAwMDAwMDAwMLOGsZiHudFqhbVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/22.png"
+        },
+        {
+          "username": "Alisa",
+          "uid": "MDAwMDAwMDAwMLOssZSHz6dohrVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/39.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLOsuZSH37dt",
+      "issys": "0",
+      "coursename": "python\u5168\u6808\u7b2c19\u671f",
+      "code": "EU7XJ6",
+      "stopcode": "1",
+      "classname": null,
+      "semester": null,
+      "term": "0",
+      "username": "\u67e0\u6aac\u73ed-\u661f\u661f",
+      "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2018-04-11\/1523411221.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513800&Signature=1TDYd1LwfT%2BKSF3FooH%2BZ1iz7SU%3D",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/31.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/31.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/31.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/31.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/31.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/31.png",
+      "owner": false,
+      "total": "138",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLScuZmGqaex",
+          "title": "python\u73ed\u7ea7\u5165\u804coffer\u798f\u5229\u6765\u4e00\u6ce2~",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLScrdyGz69q",
+          "title": "\u6839\u636e\u4e0a\u8bfe\u5185\u5bb9\u5b8c\u6210\u524d\u7a0b\u8d37 app \u7684\u624b\u673a\u9519\u8bef\u6d4b\u8bd5\u7528\u4f8b",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLOsuZSH37dt\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass2",
+      "inviteclass": "course-invite-color-2",
+      "tclass": "tclass-2",
+      "students": [
+        {
+          "username": "\u8d75\u827a\u6770",
+          "uid": "MDAwMDAwMDAwMLOsrd6H37ewhKVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/38.png"
+        },
+        {
+          "username": "\u6f6e\u6c50\u91d1\u7433",
+          "uid": "MDAwMDAwMDAwMLOstd6Guc1phNtyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/36.png"
+        },
+        {
+          "username": "Steven",
+          "uid": "MDAwMDAwMDAwMLOstZSGqbdrhNtyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/35.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLOsuZWH36uy",
+      "issys": "0",
+      "coursename": "python\u6d4b\u8bd5\u5f00\u53d1\u7b2c1\u671f",
+      "code": "RCAJ4Z",
+      "stopcode": "1",
+      "classname": null,
+      "semester": null,
+      "term": "0",
+      "username": "\u67e0\u6aac\u73ed-\u661f\u661f",
+      "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2018-04-11\/1523411221.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513800&Signature=1TDYd1LwfT%2BKSF3FooH%2BZ1iz7SU%3D",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/03.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/03.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/03.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/03.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/03.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/03.png",
+      "owner": false,
+      "total": "32",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLScz9yGuc2w",
+          "title": "1118_\u8bfe\u7a0b\u603b\u7ed3&amp;\u7b80\u5386\u8f85\u5bfc",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLScy9uHz6ey",
+          "title": "1108_\u73af\u5883\u3001\u5185\u7f6e\u51fd\u6570\u3001\u5957\u4ef6\u3001\u62a5\u544a\u6a21\u5757\u5b9e\u73b0",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLOsuZWH36uy\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass1",
+      "inviteclass": "course-invite-color-1",
+      "tclass": "tclass-1",
+      "students": [
+        {
+          "username": "\u897f\u7ea2\u67ff",
+          "uid": "MDAwMDAwMDAwMLOstd2HuclshMtyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/25.png"
+        },
+        {
+          "username": "\u5510\u51ac",
+          "uid": "MDAwMDAwMDAwMLOstdyIqdGwhrVyoQ",
+          "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2019-05-14\/1557798129.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912497622&Signature=lTfbOOcRAZ7BvltTRpywOpVUqv4%3D"
+        },
+        {
+          "username": "\u676d\u5dde-\u6c5f-11\u671f",
+          "uid": "MDAwMDAwMDAwMLOcrdyH37tohMtyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/31.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLOsuZeHz69s",
+      "issys": "0",
+      "coursename": "python\u6d4b\u8bd5\u5f00\u53d1\u7b2cx\u671f",
+      "code": "4835PH",
+      "stopcode": "0",
+      "classname": null,
+      "semester": null,
+      "term": "0",
+      "username": "\u67e0\u6aac\u73ed-\u661f\u661f",
+      "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2018-04-11\/1523411221.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513800&Signature=1TDYd1LwfT%2BKSF3FooH%2BZ1iz7SU%3D",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/30.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/30.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/30.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/30.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/30.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/30.png",
+      "owner": false,
+      "total": "1",
+      "hlist": [],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLOsuZeHz69s\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass0",
+      "inviteclass": "course-invite-color-0",
+      "tclass": "tclass-0",
+      "students": [
+        {
+          "username": "\u5c0f\u5708",
+          "uid": "MDAwMDAwMDAwMLR2x9yGuc1qhctyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/26.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLOsuZmHz82y",
+      "issys": "0",
+      "coursename": "\u9ad8\u85aa\u5c31\u4e1a\u901f\u6210\u73ed\u7b2c8\u671f",
+      "code": "E72VN7",
+      "stopcode": "1",
+      "classname": null,
+      "semester": null,
+      "term": "0",
+      "username": "\u67e0\u6aac\u73ed--\u4e39\u4e39",
+      "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/22.png",
+      "minpic": "\/\/assets.ketangpai.com\/skin\/big\/mz.png",
+      "middlepic": "\/\/assets.ketangpai.com\/skin\/big\/jsj.png",
+      "bannercolor": "#318eeb",
+      "studentbgpic": null,
+      "studentminpic": null,
+      "teacherbgpic": null,
+      "teacherminpic": null,
+      "owner": false,
+      "total": "21",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLSGz5eGqclr",
+          "title": "8\u671f\u7684\u5c0f\u53ef\u7231~\u6bd5\u4e1a\u89c6\u9891\u5927\u793c\u5305\u6765\u54af~",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLSGz92Gz8lo",
+          "title": "\u63a5\u53e3\u9879\u76ee\u5b9e\u6218\u4f5c\u4e1a",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLOsuZmHz82y\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass5",
+      "inviteclass": "course-invite-color-5",
+      "tclass": "tclass-5",
+      "students": [
+        {
+          "username": "\u5c0f\u70e8",
+          "uid": "MDAwMDAwMDAwMLOstZmHz79thdtyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/33.png"
+        },
+        {
+          "username": "\u5c0f\u516e",
+          "uid": "MDAwMDAwMDAwMLOsuduGz8lshLVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/26.png"
+        },
+        {
+          "username": "\u7403\u7403",
+          "uid": "MDAwMDAwMDAwMLOGy5mHudFthbVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/29.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLOsvZmIuatp",
+      "issys": "0",
+      "coursename": "Python\u6d4b\u8bd5\u5f00\u53d1\u7b2c2\u671f",
+      "code": "TGVD8U",
+      "stopcode": "1",
+      "classname": null,
+      "semester": null,
+      "term": "0",
+      "username": "\u67e0\u6aac\u73ed-\u6587\u6587",
+      "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2018-11-21\/1542787652.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513800&Signature=UZy%2BcqbaC1MYDlr3sY58ZYOF5kQ%3D",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/23.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/23.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/23.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/23.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/23.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/23.png",
+      "owner": false,
+      "total": "39",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLSsqdyG37uy",
+          "title": "1206_docker-compose_docker swarm",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLSspZaHqdFo",
+          "title": "1203_docker_docker images_docker run",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLOsvZmIuatp\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass4",
+      "inviteclass": "course-invite-color-4",
+      "tclass": "tclass-4",
+      "students": [
+        {
+          "username": "\u76db\u654f\u667a",
+          "uid": "MDAwMDAwMDAwMLOsud6Hqb9qhrVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/32.png"
+        },
+        {
+          "username": "\u67f3\u4f1f",
+          "uid": "MDAwMDAwMDAwMLOGy5iH37tohLVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/34.png"
+        },
+        {
+          "username": "K\u5e1d\u5e1d",
+          "uid": "MDAwMDAwMDAwMLOcz5mGz79shLVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/35.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLOsvZmIubux",
+      "issys": "0",
+      "coursename": "\u9ad8\u85aa\u5c31\u4e1a\u901f\u6210\u73ed\u7b2c11\u671f",
+      "code": "78A5MA",
+      "stopcode": "1",
+      "classname": "",
+      "semester": "2019",
+      "term": "0",
+      "username": "\u4e54\u6728",
+      "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/28.png",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/28.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/28.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/28.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/28.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/28.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/28.png",
+      "owner": false,
+      "total": "18",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLSsrZeHuado",
+          "title": "20191227\uff1aRobotFramework\u7b2c\u4e94\u8282\u8bfe\uff1aRF\u7684\u9879\u76ee\u5b9e\u6218",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLSsrZeGqadt",
+          "title": "20191226\uff1aRobotFramework\u7b2c\u56db\u8282\u8bfe\uff1aRF\u7684RequestLibrary",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLOsvZmIubux\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass3",
+      "inviteclass": "course-invite-color-3",
+      "tclass": "tclass-3",
+      "students": [
+        {
+          "username": "\u515c\u54e5",
+          "uid": "MDAwMDAwMDAwMLOstZiIqc1phMtyoQ",
+          "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2019-06-11\/1560223423.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912496794&Signature=RZB9PjYaNwD%2FU2V52YkDnIyXxAE%3D"
+        },
+        {
+          "username": "\u95eb\u4f1f",
+          "uid": "MDAwMDAwMDAwMLR2uZmGz9FqhNtyoQ",
+          "avatar": "http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/PiajxSqBRaEIU4woKPdUFsWMSXibMpujdCXf6axukExySibwibkfhxtYrCQ9Q4KjjSNTww2xxdqUMn89aqsajsYWew\/132"
+        },
+        {
+          "username": "\u65e0\u540d",
+          "uid": "MDAwMDAwMDAwMLR2uZmHqcmvhbVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/22.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLOsx9uGz79r",
+      "issys": "0",
+      "coursename": "python\u5168\u6808\u7b2c21\u671f",
+      "code": "F2QWC6",
+      "stopcode": "1",
+      "classname": null,
+      "semester": null,
+      "term": "0",
+      "username": "\u67e0\u6aac\u73ed-\u661f\u661f",
+      "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2018-04-11\/1523411221.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513800&Signature=1TDYd1LwfT%2BKSF3FooH%2BZ1iz7SU%3D",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/23.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/23.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/23.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/23.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/23.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/23.png",
+      "owner": false,
+      "total": "175",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLOGtZaIqclrhaVyoQ",
+          "title": "python\u73ed\u7ea7\u5165\u804coffer\u798f\u5229\u6765\u4e00\u6ce2~ \u597d\u6d88\u606f\u6765\u88ad~\u6b32\u77e5\u8be6\u60c5\u8bf7\u70b9\u8fdb\u6765\u770b\u770b~",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLScy9uHqclp",
+          "title": "1109-\u5143\u7d20\u64cd\u4f5c\u4f5c\u4e1a",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLOsx9uGz79r\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass2",
+      "inviteclass": "course-invite-color-2",
+      "tclass": "tclass-2",
+      "students": [
+        {
+          "username": "\u5c0f\u5c0f",
+          "uid": "MDAwMDAwMDAwMLOsud6GqbNthqVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/32.png"
+        },
+        {
+          "username": "Stronger",
+          "uid": "MDAwMDAwMDAwMLOsud2IubexhaVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/38.png"
+        },
+        {
+          "username": "\u76c8",
+          "uid": "MDAwMDAwMDAwMLOsud2IuaeyhrVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/38.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLOsx9yIuc1o",
+      "issys": "0",
+      "coursename": "\u5168\u7a0b\u73edVIP\u9879\u76ee\u7b2c63\u671f",
+      "code": "SNGBZK",
+      "stopcode": "1",
+      "classname": null,
+      "semester": null,
+      "term": "0",
+      "username": "\u4e54\u6728",
+      "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/28.png",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/19.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/19.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/19.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/19.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/19.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/19.png",
+      "owner": false,
+      "total": "75",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLSspd6Hqa9r",
+          "title": "\u7ed3\u4e1a\u89c6\u9891\u9886\u53d6~~~~",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLScx5SIubdr",
+          "title": "1104-RF\u7b2c\u4e94\u8282\u8bfe\uff1aRF\u7684\u5b9e\u6218",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLOsx9yIuc1o\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass1",
+      "inviteclass": "course-invite-color-1",
+      "tclass": "tclass-1",
+      "students": [
+        {
+          "username": "\u9999\u9999",
+          "uid": "MDAwMDAwMDAwMLOsud6Gz6eyhLVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/34.png"
+        },
+        {
+          "username": "\u5c0f\u989c",
+          "uid": "MDAwMDAwMDAwMLOsud6Gub9shLVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/39.png"
+        },
+        {
+          "username": "\u8a00\u7cd9",
+          "uid": "MDAwMDAwMDAwMLOsud6Gub9phNtyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/20.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLOsx9yIuc1p",
+      "issys": "0",
+      "coursename": "Java\u81ea\u52a8\u5316\u7b2c13\u671f",
+      "code": "78F53T",
+      "stopcode": "1",
+      "classname": null,
+      "semester": null,
+      "term": "0",
+      "username": "\u4e54\u6728",
+      "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/28.png",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/26.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/26.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/26.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/26.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/26.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/26.png",
+      "owner": false,
+      "total": "80",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLSspZiG36do",
+          "title": "java\u73ed\u7ea7\u5165\u804coffer\u798f\u5229\u6765\u4e00\u6ce2~",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLScrZSGz6ts",
+          "title": "\u63a5\u53e3\u81ea\u52a8\u5316\u6d4b\u8bd5\u4f5c\u4e1a-1",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLOsx9yIuc1p\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass0",
+      "inviteclass": "course-invite-color-0",
+      "tclass": "tclass-0",
+      "students": [
+        {
+          "username": "\u5c81\u6708\u5b89\u7136",
+          "uid": "MDAwMDAwMDAwMLOsuZeGqdGwhctyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/30.png"
+        },
+        {
+          "username": "\u6bdb\u6bdb",
+          "uid": "MDAwMDAwMDAwMLOsud6Gz6tohNtyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/27.png"
+        },
+        {
+          "username": "Monica",
+          "uid": "MDAwMDAwMDAwMLOsud6G39GvhaVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/36.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLOsx5SGqclq",
+      "issys": "0",
+      "coursename": "Python\u5168\u6808\u7b2c22\u671f",
+      "code": "8F7ZJN",
+      "stopcode": "1",
+      "classname": null,
+      "semester": null,
+      "term": "0",
+      "username": "\u67e0\u6aac\u73ed-\u6587\u6587",
+      "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2018-11-21\/1542787652.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513800&Signature=UZy%2BcqbaC1MYDlr3sY58ZYOF5kQ%3D",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/01.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/01.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/01.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/01.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/01.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/01.png",
+      "owner": false,
+      "total": "193",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLSssdyHz7-x",
+          "title": "\u51edoffer\u6765\u9886\u53d6\u8bfe\u7a0b\u89c6\u9891\u54af~",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLSsrZaHqbtt",
+          "title": "1225- \u524d\u7a0b\u8d37app(\u4e5f\u53ef\u7528\u5176\u5b83app)\u4e5d\u5bab\u683c\u7ed8\u5236\u5b9e\u73b0 ",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLOsx5SGqclq\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass5",
+      "inviteclass": "course-invite-color-5",
+      "tclass": "tclass-5",
+      "students": [
+        {
+          "username": "\u6df1\u5733_\u83dc\u534a\u4ed9_22",
+          "uid": "MDAwMDAwMDAwMLOsud6IubtshaVyoQ",
+          "avatar": "http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/bsuSduQXJQxso7z3V1SicqAa6uJdqIDWlNVW0ibW3xUCvibrOA9icw1ic7T0XeibFHvlgjT3VsSeib563t9yfuKHabsdA\/132"
+        },
+        {
+          "username": "Susies",
+          "uid": "MDAwMDAwMDAwMLOsud6IubeyhdtyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/31.png"
+        },
+        {
+          "username": "RIC",
+          "uid": "MDAwMDAwMDAwMLOsud6IqaevhrVyoQ",
+          "avatar": "http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/NkeRgkDnBxPHGWFb5klHY0Z4wt53z5V3PJuKDibCia7nPT901brqYsWEOTwpYCgEx7gJbYTXXibwCu45vVOcTRQXw\/132"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLOsx5aGz8lo",
+      "issys": "0",
+      "coursename": "python\u5168\u6808\u7b2c23\u671f",
+      "code": "62ZDWV",
+      "stopcode": "1",
+      "classname": null,
+      "semester": null,
+      "term": "0",
+      "username": "\u67e0\u6aac\u73ed-\u654f\u654f",
+      "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2019-11-04\/1572860860.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513800&Signature=DetiEYYdvu2oNNKiid7ZcG1lKkU%3D",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/28.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/28.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/28.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/28.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/28.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/28.png",
+      "owner": false,
+      "total": "197",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLSsy92H39Fo",
+          "title": "20200208 - 2020\u5e74\u7684\u7b2c\u4e00\u4efd\u4f5c\u4e1a\u6765\u5566\uff01\uff01  - \u4f5c\u4e1a\u5468\u671f2\u5468\uff0c\u6ca1\u6709\u6761\u4ef6\u505a\u4f5c\u4e1a\u7684\u5c0f\u53ef\u7231\u4e0d\u7528\u62c5\u5fc3\u4e86\uff01",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLSssd2Iua9q",
+          "title": "1218-web\u8003\u6838\u9879\u76ee\u6765\u5566\uff01---\u8bc1\u660e\u4f60\u4eec\u81ea\u5df1\u7684\u65f6\u5019\u5230\u4e86\uff0c\u6ca1\u6709\u8001\u5e08\u4e5f\u662f\u5f88\u68d2\u7684\u3002\u53e6\u5916\uff1aweb\u9636\u6bb5\u7684\u601d\u7ef4\u5bfc\u56fe\u4e00\u4efd\uff01\uff01\uff01",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLOsx5aGz8lo\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass4",
+      "inviteclass": "course-invite-color-4",
+      "tclass": "tclass-4",
+      "students": [
+        {
+          "username": "\u4eba\u751f\u5982\u620f",
+          "uid": "MDAwMDAwMDAwMLR2tdyGqa9qhbVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/30.png"
+        },
+        {
+          "username": "\u660e\u660e-\u6b66\u6c49",
+          "uid": "MDAwMDAwMDAwMLR2sZeHz79phrVyoQ",
+          "avatar": "http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/r7mheeOQy1YfXW1x3uzRhYx1afen0OxdekozibFk5JOic3DLGY5n3RheA4Na2hEKgibD8PpINCibjzeibEJuRxcat1A\/132"
+        },
+        {
+          "username": "\u660e\u660e",
+          "uid": "MDAwMDAwMDAwMLR2rd2G379rhqVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/39.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLOsy9uHz6ds",
+      "issys": "0",
+      "coursename": "python\u6d4b\u5f00 \u8865\u8003",
+      "code": "ZG95RQ",
+      "stopcode": "1",
+      "classname": null,
+      "semester": null,
+      "term": "0",
+      "username": "\u67e0\u6aac\u73ed-\u6587\u6587",
+      "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2018-11-21\/1542787652.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513800&Signature=UZy%2BcqbaC1MYDlr3sY58ZYOF5kQ%3D",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/01.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/01.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/43.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/43.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/43.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/43.png",
+      "owner": false,
+      "total": "0",
+      "hlist": [],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLOsy9uHz6ds\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass3",
+      "inviteclass": "course-invite-color-3",
+      "tclass": "tclass-3",
+      "students": [],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLR2pd2GubOw",
+      "issys": "0",
+      "coursename": "python\u81ea\u52a8\u5316\u7b2c24\u671f",
+      "code": "EV47D2",
+      "stopcode": "1",
+      "classname": "python\u81ea\u52a8\u5316\u7b2c24\u671f",
+      "semester": "2019-2020",
+      "term": "1",
+      "username": "\u4e54\u6728",
+      "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/28.png",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/21.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/21.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/21.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/21.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/21.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/21.png",
+      "owner": false,
+      "total": "185",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLOGpZSIqatthrVyoQ",
+          "title": "web\u8003\u6838\u9879\u76ee\u6765\u5566\uff01---\u8d81\u7740\u7a7a\u95f2\u65f6\u95f4\uff0c\u8d76\u7d27\u6765\u5b9e\u6218\u4e00\u6ce2\u3002\u8bc1\u660e\u4f60\u4eec\u81ea\u5df1\u7684\u65f6\u5019\u5230\u4e86\uff0c\u6ca1\u6709\u8001\u5e08\u4e5f\u662f\u5f88\u68d2\u7684\u3002",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLOGpd2GqdFqhbVyoQ",
+          "title": "python\u73ed\u7ea7\u5165\u804coffer\u798f\u5229\u6765\u4e00\u6ce2~",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLR2pd2GubOw\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass2",
+      "inviteclass": "course-invite-color-2",
+      "tclass": "tclass-2",
+      "students": [
+        {
+          "username": "cheryl",
+          "uid": "MDAwMDAwMDAwMLR2sZiGqa-whctyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/24.png"
+        },
+        {
+          "username": "\u6628\u65e5\u8fd1\u9ec4\u660f",
+          "uid": "MDAwMDAwMDAwMLOsrZeIuclphbVyoQ",
+          "avatar": "http:\/\/thirdwx.qlogo.cn\/mmopen\/vi_32\/63vRZK1FAEIpZM7U6r3vKLXE5VueCjY7Q0HcOgRxlibRbiadaoicibicmstVxCtONwmyRfeZ9CSZ7cNJshfxBfTkxzA\/132"
+        },
+        {
+          "username": "\u7c73",
+          "uid": "MDAwMDAwMDAwMLR2tZeG382xhctyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/27.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLR2qduIua-w",
+      "issys": "0",
+      "coursename": "python\u6d4b\u8bd5\u5f00\u53d1\u7b2c3\u671f",
+      "code": "H89AK8",
+      "stopcode": "1",
+      "classname": "",
+      "semester": "2021-2022",
+      "term": "0",
+      "username": "\u67e0\u6aac\u73ed-\u654f\u654f",
+      "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2019-11-04\/1572860860.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912513800&Signature=DetiEYYdvu2oNNKiid7ZcG1lKkU%3D",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/01.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/01.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/37.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/37.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/37.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/37.png",
+      "owner": false,
+      "total": "28",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLWGz5SGqbey",
+          "title": "0305_docker images_docker run",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLWGtdyIqclo",
+          "title": "0229_awk_\u65e5\u5fd7\u5206\u6790\u7efc\u5408\u6f14\u7ec3",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLR2qduIua-w\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass1",
+      "inviteclass": "course-invite-color-1",
+      "tclass": "tclass-1",
+      "students": [
+        {
+          "username": "\u4e03\u4e03",
+          "uid": "MDAwMDAwMDAwMLOGz96H38lshctyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/25.png"
+        },
+        {
+          "username": "Rose",
+          "uid": "MDAwMDAwMDAwMLR2vduIqbtthdtyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/31.png"
+        },
+        {
+          "username": "\u6728\u77e5\u77e5",
+          "uid": "MDAwMDAwMDAwMLOstZaGz6-yhbVyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/23.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    },
+    {
+      "id": "MDAwMDAwMDAwMLR2tdyH36ds",
+      "issys": "0",
+      "coursename": "Python\u5168\u6808\u7b2c25\u671f",
+      "code": "EV3P5H",
+      "stopcode": "1",
+      "classname": "",
+      "semester": "2019-2020",
+      "term": "0",
+      "username": "\u4e22\u4e22",
+      "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/35.png",
+      "minpic": "\/\/assets.ketangpai.com\/theme\/min\/17.jpg",
+      "middlepic": "\/\/assets.ketangpai.com\/theme\/middle\/17.jpg",
+      "bannercolor": "#318eeb",
+      "studentbgpic": "\/\/assets.ketangpai.com\/theme\/student\/big\/17.png",
+      "studentminpic": "\/\/assets.ketangpai.com\/theme\/student\/min\/17.png",
+      "teacherbgpic": "\/\/assets.ketangpai.com\/theme\/teacher\/big\/17.png",
+      "teacherminpic": "\/\/assets.ketangpai.com\/theme\/teacher\/min\/17.png",
+      "owner": false,
+      "total": "212",
+      "hlist": [
+        {
+          "id": "MDAwMDAwMDAwMLOGsduIqb9rhLVyoQ",
+          "title": "Python\u81ea\u52a8\u5316\u5165\u804coffer\u798f\u5229\u6765\u4e00\u6ce2~~~~",
+          "type": "0"
+        },
+        {
+          "id": "MDAwMDAwMDAwMLOGrZmHudGxhbVyoQ",
+          "title": "2020-0424-\u7ed3\u4e1aweb\u8003\u6838\u9879\u76ee\u6765\u5566\uff01---\u8bc1\u660e\u4f60\u4eec\u81ea\u5df1\u7684\u65f6\u5019\u5230\u4e86\uff0c\u6ca1\u6709\u8001\u5e08\u4e5f\u662f\u5f88\u68d2\u7684\u3002\u53e6\u5916\uff1a\u4e0a\u7f34web\u9636\u6bb5\u7684\u601d\u7ef4\u5bfc\u56fe\u4e00\u4efd\uff01\uff01\uff01",
+          "type": "0"
+        }
+      ],
+      "role": 1,
+      "packageUrl": "https:\/\/package.ketangpai.com\/Package\/packageCourseView\/courseid\/MDAwMDAwMDAwMLR2tdyH36ds\/uid\/MDAwMDAwMDAwMLOsqZSGqa9phctyoQ.html",
+      "bgcolor": "bgclass0",
+      "inviteclass": "course-invite-color-0",
+      "tclass": "tclass-0",
+      "students": [
+        {
+          "username": "10086",
+          "uid": "MDAwMDAwMDAwMLSspdyH369o",
+          "avatar": "http:\/\/img.ketangpai.com\/ketangpai.aliapp.com\/1\/webroot\/Uploads\/Download\/2017-03-29\/1490750018.jpg%40%2162-62?OSSAccessKeyId=LTAItfPkNIKJFibY&Expires=1912496794&Signature=nqqJNPSsR2rPVbeEm7e28Zobluk%3D"
+        },
+        {
+          "username": "\u662f\u963f\u82b1\u5440",
+          "uid": "MDAwMDAwMDAwMLR2vduHubNphctyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/39.png"
+        },
+        {
+          "username": "\u862d",
+          "uid": "MDAwMDAwMDAwMLR2vZeG36tshMtyoQ",
+          "avatar": "http:\/\/www.ketangpai.com\/Public\/Common\/img\/40\/22.png"
+        }
+      ],
+      "withScreenState": 0,
+      "liveState": 0,
+      "isattest": false
+    }
+  ],
+  "info": "success",
+  "sysCount": "1"
+}
